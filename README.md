@@ -1,4 +1,4 @@
-# machine-learning-uni-class
+# Machine Learning University Class
 
 These are the pratice guides to solve in class and their solution in a Matlab / Octave implementation as well as a pdf document with notes I write on the Machine Learning thoery behind what we practice.
 
