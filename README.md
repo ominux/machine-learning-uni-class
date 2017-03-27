@@ -17,3 +17,7 @@ This is an ongoing class as of Spring semester of the year 2017.
 4. Neural Networks
 
 5. Training Neural Networks & Support Vector Machines
+
+6. Bias-Variance Tradeoff
+
+7. K-Means Clustering 
